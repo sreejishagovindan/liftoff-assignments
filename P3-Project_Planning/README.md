@@ -18,6 +18,10 @@ https://github.com/sreejishagovindan/liftoff-assignments/blob/master/P3-Project_
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+https://trello.com/b/nmNr1ecn/liftoff-project
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+https://github.com/Jul-2022-LC-LiftOff/the-pantry/tree/jisha
